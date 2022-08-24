@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AkankshaGaonkar-Deloitte
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning full stack tech stacks
-- 
